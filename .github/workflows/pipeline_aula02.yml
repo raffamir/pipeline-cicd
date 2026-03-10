@@ -1,4 +1,4 @@
-name: Pipeline Demo CI/CD versão 4
+name: Pipeline Demo CI/CD versão 1
 
 on:
   push:
